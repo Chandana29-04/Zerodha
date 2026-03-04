@@ -1,9 +1,7 @@
-# Zerodha
-A full-stack Zerodha trading platform clone built with React, Node.js, Express, and MongoDB, featuring portfolio management, trading dashboard, and stock tracking.
-# Zerodha Clone – Full Stack Trading Platform
+#Zerodha Clone – Full Stack Trading Platform
 
-This project is a **full-stack clone of the Zerodha trading platform** built to simulate the core functionality of an online stock trading application. It demonstrates how modern trading dashboards work and provides hands-on experience with full-stack web development.
-
+A full-stack clone of the Zerodha trading platform built using React, Node.js, Express, and MongoDB.  
+This project simulates a stock trading dashboard with portfolio management, order tracking, and market watchlist features.
 ## 🚀 Features
 
 * User authentication (login & signup)
